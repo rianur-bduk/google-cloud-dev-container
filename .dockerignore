@@ -1,0 +1,5 @@
+docs/
+Dockerfile
+data/
+.git/
+.gitignore

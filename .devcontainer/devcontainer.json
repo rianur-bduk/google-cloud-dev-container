@@ -1,0 +1,7 @@
+{
+    "name" : "Google Cloud Dev Container",
+    "build": {
+        // Path is relative to the devcontainer.json file.
+        "dockerfile": "../Dockerfile"
+    }
+}

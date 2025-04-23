@@ -1,0 +1,9 @@
+ services:
+    app:
+        build: .
+        container_name: gcloud-container
+        command: python src/main.py
+        volumes:
+            - .//src:/code/src
+            - .//data:/code/data
+            - .//requirements.txt:/code/requirements.txt
