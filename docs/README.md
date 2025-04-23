@@ -1,6 +1,6 @@
 # Project Name: Local Indicators Pipeline
 ## ℹ️ Overview
-The project prepares local indicators data for ingestion into BDUK systems (BigQuery).  See example data [here](https://explore-local-statistics.beta.ons.gov.uk/insights/datadownload.ods).
+Sets up dev container with gcloud and python installed.
 ## Installation
 ### Using dockerfile
 - ```` docker build -t gcloud-image .````
