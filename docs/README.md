@@ -1,4 +1,4 @@
-# Project Name: Local Indicators Pipeline
+# Project Name: Google Cloud Docker Dev Container
 ## ℹ️ Overview
 Sets up dev container with gcloud and python installed.
 ## Installation
